@@ -1,0 +1,103 @@
+.tiro-bangla-regular {
+    font-family: "Tiro Bangla", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.tiro-bangla-regular-italic {
+    font-family: "Tiro Bangla", serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.no-1 {
+    color: black;
+    text-align: center;
+}
+
+.no2 {
+    text-align: center;
+    font-size: 60px;
+    color: rgb(56, 198, 227);
+}
+
+.no3 {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-size: 20px;
+}
+
+.no4 {
+    color: orange;
+    font-weight: 800;
+    font-size: 30px;
+}
+
+.flaxible {
+    display: flex;
+    background-image: url(web-bannar.jpg);
+}
+
+.no5 {
+    width: 70%;
+    padding: 2%;
+}
+
+.no5 img {
+    width: 50%;
+}
+
+#name {
+    font-size: 30px;
+    color: rgb(226, 223, 217);
+}
+
+#aline {
+    text-align: center;
+    border-left: 7px solid;
+    border-image: linear-gradient(orange, tomato);
+    border-image-slice: 1;
+
+
+}
+
+.no6 {
+    padding-left: 1%;
+    padding-top: 10%;
+    padding-right: 1%;
+
+
+}
+
+.new-flx {
+    display: flex;
+}
+
+.describe {
+    text-align: auto;
+    width: 50%;
+    padding-top: 2%;
+    border-left: 7px salmon;
+    border-image: linear-gradient(blue, rgba(64, 175, 223, 0.769));
+    border-image-slice: 1%;
+
+}
+
+.bold {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#hole {
+    background-image: url(hole.jpg);
+}
+
+.big-bold {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.font-color {
+    color: rgb(76, 120, 15);
+}
