@@ -32,6 +32,7 @@
     color: orange;
     font-weight: 800;
     font-size: 30px;
+    text-shadow: 2%, black;
 }
 
 .flaxible {
@@ -100,4 +101,17 @@
 
 .font-color {
     color: rgb(76, 120, 15);
+}
+
+.ID {
+    font-weight: 800;
+    font-size: large;
+    padding-left: 2%;
+}
+
+.sub-size {
+    font-size: medium;
+    font-weight: 800;
+    padding-left: 5%;
+    border-image: linear-gradient (green, orange);
 }
